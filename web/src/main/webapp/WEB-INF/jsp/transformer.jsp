@@ -23,7 +23,7 @@
 </head>
 
 <body>
-	<h2>Hello World!</h2>
+	<h2>Online XML transformer</h2>
 	
 	<form:form method="POST" commandName="transformationRequest" action="transform">
 		<form:errors path="*" cssClass="errorblock" element="div" />
